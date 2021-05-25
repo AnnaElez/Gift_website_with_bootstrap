@@ -1,0 +1,283 @@
+
+
+@media (max-width: 1024px){
+
+    .container{
+        max-width: 770px;
+    }
+
+    .button{
+        width: 140px;
+        padding: 10px;
+        font-size: 15px;
+    }
+
+    /* Blocks img/text */
+
+    .main_block-words{
+        margin: 0 auto;
+    }
+
+    .main_block-words article{
+        width: 350px;
+    }
+
+    .main_block-words h1{
+        font-size: 30px;
+        line-height: 50px;
+        margin-bottom: 20px;
+    }
+
+    .main_block-words p{
+        font-size: 17px;
+        line-height: 28px;
+        margin-bottom: 40px;
+    }
+    
+    /* Holidays */
+
+    .holidays{
+        padding: 70px;
+    }
+
+    .holidays h1{
+        font-size: 28px;
+        margin-bottom: 15px;
+    }
+
+    .holidays h2{
+        font-size: 25px;
+        margin-bottom: 40px;
+    }
+
+    .holiday_type{
+       width: 177px;
+    }
+
+    .holiday_type h2{
+        margin: 25px;
+        font-size: 18px;
+    }
+
+    .art{
+        width: 400px;
+        padding: 50px 50px 50px 0;
+    }
+
+
+    /* Grey block */
+
+    .grey_block a{
+        font-size: 15px;
+    }
+
+    .grey_block h1{
+        font-size: 30px;
+    }
+
+    .grey_block img{
+        width: 300px;
+    }
+
+    /* Info block */
+
+    .info{
+        margin-bottom: 100px;
+    }
+
+    .info_block{
+        padding-top:50px;
+        margin-bottom: 0;
+    }
+}
+
+
+
+@media (max-width: 992px){
+    .container{
+        max-width: 770px;
+    }
+
+    .button{
+        width: 123px;
+        padding: 12px;
+        font-size: 13px;
+    }
+
+    .button_header{
+        width: 100px;
+    }
+
+    .header .logo img{
+        width: 80%;
+    }
+
+    /* Orange block */
+
+    .art h1, .art h2{
+        font-size: 28px;
+    }
+
+    /* White block */
+
+    .white_block{
+        padding: 70px;
+    }
+
+    /* Info block */
+
+    .info h1{
+        font-size: 21px;
+    }
+
+    .info p{
+        font-size: 15px;
+    }
+
+    /* Footer */
+
+    .footer_inner{
+        padding-bottom: 41px;
+    }
+
+    .media_contact{
+        padding: 41px;
+    }
+}
+
+
+
+
+@media (max-width: 768px){
+
+    .container{
+        max-width: 570px;
+    }
+
+    .button{
+        width: 130px;
+        padding: 10px;
+        font-size: 13px;
+    }
+
+    .main_block-words article{
+        width: 300px;
+    }
+
+    .main_block-words p{
+        font-size: 13px;
+    }
+
+    .main_block-words h1{
+        font-size: 25px;
+        margin-bottom: 0;
+    }
+
+    .main_block-words h2{
+        font-size: 25px;
+        margin-bottom: 0;
+    } 
+
+    .button_blocks{
+        padding: 10px;
+    }
+
+    .holidays{
+        padding:50px;
+    }
+
+
+    .holidays h1{
+        font-size: 25px;
+        margin-bottom: 13px;
+    }
+
+    .holidays h2{
+        font-size: 22px;
+        margin-bottom: 30px;
+    }
+
+    .holiday_type:hover{
+        box-shadow: 2px 4px rgb(216, 216, 216);
+    }
+
+    .holiday_type h2{
+        margin: 10px;
+        font-size: 15px;
+    }
+
+    .holiday_type a{
+        margin: 10px;
+        font-size: 12px;
+        margin-bottom:0;
+    }
+
+    .art{
+        width: 500px;
+        margin-right: 50px;
+        padding: 50px 50px 50px 0;
+    }
+
+    .art h1,h2{
+        font-size: 25px;
+    }
+
+    .white_block{
+        padding:50px 50px 25px 50px;
+    }
+
+    /* Grey block */
+
+    .grey_block img{
+        width: 250px;
+    }
+
+    .grey_block article{
+        width: 250px;
+        padding: 0;
+    }
+
+    .grey_block a{
+        font-size: 15px;
+    }
+
+    .grey_block h1{
+        font-size: 22px;
+    }
+
+    /* Info block */
+
+    .info_block{
+        padding:30px 0;
+        height: 400px;
+    }
+
+    .info p{
+        font-size: 16px;
+        line-height: 23px;
+        margin-bottom: 30px;
+    }
+
+    .info a{
+        font-size: 14px;
+    }
+
+    .info article{
+        padding: 25px;
+    }
+
+    /* Footer */
+    .footer_inner{
+        margin-left: 35px;
+        padding-bottom: 40px;
+    }
+
+    .footer_inner a{
+        font-size: 15px;
+    }
+
+    .footer .logo{
+        margin: 0 100px;
+    }
+
+}

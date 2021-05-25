@@ -1,0 +1,31 @@
+@font-face{
+    font-family: 'Gilroy-Light';
+    font-style:normal;
+    font-weight: 400;
+    src:url('../fonts/Gilroy-Light.otf');
+}
+
+@font-face{
+    font-family: 'Gilroy-Bold';
+    font-style:bold;
+    font-weight: 800;
+    src:url('../fonts/Gilroy-ExtraBold.otf');
+}
+
+body{
+    font-family: 'Gilroy-Light';
+}
+
+.extra_bold{
+    font-family: 'Gilroy-Bold';
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.media_contact i{
+    background-color: black;
+    color:white;
+}
